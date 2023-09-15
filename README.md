@@ -11,7 +11,7 @@ Several cleaning steps were implemented:
 - removal of interventions like *edit*, *edited*, *address*
 
 Notes:
-1. 12 conversation files were found to contain more than 1 officer talking to the same predator. Therefore, each officer's utterances was saved in a separate file.
+1. 12 conversation files were found to contain more than 1 officer talking to the same predator. Therefore, each officer's utterances were saved in a separate file.
 2. 2 predator files were found to correspond to the same predator, thus they were merged into one.
 
 # predators
