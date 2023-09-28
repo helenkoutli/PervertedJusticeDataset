@@ -15,7 +15,7 @@ Notes:
 2. 2 predator files were found to correspond to the same predator, thus they were merged into one.
 
 # predators
-This folder contains the 62 predators' txt files. Each one corresponds to one unique predator user and contains all their utterances. 
+This folder contains the 621 predators' txt files. Each one corresponds to one unique predator user and contains all their utterances. 
 Each filename corresponds to the predator's username.
 
 # officers
